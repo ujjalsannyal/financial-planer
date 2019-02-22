@@ -13,7 +13,6 @@ class App extends Component {
     return (
       <Router>
       <div className="App">
-        <ButtonAppBar />
         <header >
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <a class="navbar-brand" href="#">Navbar</a>
