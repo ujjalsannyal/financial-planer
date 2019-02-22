@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ssh ubuntu@18.217.98.110 <<EOF
+ssh ubuntu@18.223.111.203 <<EOF
     cd ~/financial-planer
     git pull origin master
     curl -o-   https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh    | bash
